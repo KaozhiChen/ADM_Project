@@ -4,6 +4,8 @@
 !models_and_metrics/*.csv
 # Exception: allow compressed training data
 !Data/training_data.zip
+!Data/Row_Data/sales_train_evaluation.csv.zip
+!Data/Row_Data/calendar.csv
 
 # macOS system files
 .DS_Store
